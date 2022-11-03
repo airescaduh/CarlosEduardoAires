@@ -1,5 +1,5 @@
 - 👋 Meu Nome é Carlos Eduardo Aires
-- 👀 Tenho Conhecimentos em Java e em C++
-- 🌱 Atualmente Estudante de Phyton
+- 👀 Tenho Conhecimentos em Java, HTML + CSS
+- 🌱 Atualmente Estudante de Java
 - 💞️ 
 - 📫 Contato: aireseduardocarlos@gmail.com
